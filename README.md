@@ -1,7 +1,7 @@
 # Python_Programacion_lineal_Industria_Alimentaria
 Caso: Industria Alimentaria - Bebida Nutricional
 
-### Ejercicio de Programación Lineal: Desarrollo de una Bebida Nutricional
+### Desarrollo de una Bebida Nutricional
 
 #### Contexto
 Una agencia de cooperación internacional te ha contratado para desarrollar una bebida nutricional destinada a complementar los desayunos escolares en zonas rurales. La bebida debe ser a base de soya, maíz y avena y debe ser nutricionalmente rica y económica.
